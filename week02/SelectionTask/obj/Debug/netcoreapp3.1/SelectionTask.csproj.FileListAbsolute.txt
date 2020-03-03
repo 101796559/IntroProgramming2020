@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/bin/Debug/netcoreapp3.1/SelectionTask.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/bin/Debug/netcoreapp3.1/SelectionTask.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/bin/Debug/netcoreapp3.1/SelectionTask.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/bin/Debug/netcoreapp3.1/SelectionTask.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/bin/Debug/netcoreapp3.1/SelectionTask.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/obj/Debug/netcoreapp3.1/SelectionTask.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/obj/Debug/netcoreapp3.1/SelectionTask.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/obj/Debug/netcoreapp3.1/SelectionTask.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/obj/Debug/netcoreapp3.1/SelectionTask.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week02/SelectionTask/obj/Debug/netcoreapp3.1/SelectionTask.pdb
