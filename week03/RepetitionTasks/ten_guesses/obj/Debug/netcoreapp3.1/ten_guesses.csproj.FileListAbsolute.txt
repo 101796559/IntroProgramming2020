@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/bin/Debug/netcoreapp3.1/ten_guesses.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/bin/Debug/netcoreapp3.1/ten_guesses.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/bin/Debug/netcoreapp3.1/ten_guesses.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/bin/Debug/netcoreapp3.1/ten_guesses.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/bin/Debug/netcoreapp3.1/ten_guesses.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/obj/Debug/netcoreapp3.1/ten_guesses.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/obj/Debug/netcoreapp3.1/ten_guesses.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/obj/Debug/netcoreapp3.1/ten_guesses.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/obj/Debug/netcoreapp3.1/ten_guesses.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/ten_guesses/obj/Debug/netcoreapp3.1/ten_guesses.pdb

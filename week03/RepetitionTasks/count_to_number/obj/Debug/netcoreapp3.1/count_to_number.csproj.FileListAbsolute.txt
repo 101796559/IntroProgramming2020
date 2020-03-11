@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/bin/Debug/netcoreapp3.1/count_to_number.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/bin/Debug/netcoreapp3.1/count_to_number.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/bin/Debug/netcoreapp3.1/count_to_number.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/bin/Debug/netcoreapp3.1/count_to_number.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/bin/Debug/netcoreapp3.1/count_to_number.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/obj/Debug/netcoreapp3.1/count_to_number.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/obj/Debug/netcoreapp3.1/count_to_number.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/obj/Debug/netcoreapp3.1/count_to_number.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/obj/Debug/netcoreapp3.1/count_to_number.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/count_to_number/obj/Debug/netcoreapp3.1/count_to_number.pdb

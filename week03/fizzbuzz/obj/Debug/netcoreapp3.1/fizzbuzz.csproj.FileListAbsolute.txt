@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/bin/Debug/netcoreapp3.1/fizzbuzz.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/bin/Debug/netcoreapp3.1/fizzbuzz.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/bin/Debug/netcoreapp3.1/fizzbuzz.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/bin/Debug/netcoreapp3.1/fizzbuzz.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/bin/Debug/netcoreapp3.1/fizzbuzz.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/obj/Debug/netcoreapp3.1/fizzbuzz.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/obj/Debug/netcoreapp3.1/fizzbuzz.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/obj/Debug/netcoreapp3.1/fizzbuzz.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/obj/Debug/netcoreapp3.1/fizzbuzz.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/fizzbuzz/obj/Debug/netcoreapp3.1/fizzbuzz.pdb

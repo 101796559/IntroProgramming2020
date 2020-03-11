@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/bin/Debug/netcoreapp3.1/zero-to-twenty.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/bin/Debug/netcoreapp3.1/zero-to-twenty.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/bin/Debug/netcoreapp3.1/zero-to-twenty.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/bin/Debug/netcoreapp3.1/zero-to-twenty.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/bin/Debug/netcoreapp3.1/zero-to-twenty.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/obj/Debug/netcoreapp3.1/zero-to-twenty.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/obj/Debug/netcoreapp3.1/zero-to-twenty.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/obj/Debug/netcoreapp3.1/zero-to-twenty.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/obj/Debug/netcoreapp3.1/zero-to-twenty.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/zero-to-twenty/obj/Debug/netcoreapp3.1/zero-to-twenty.pdb

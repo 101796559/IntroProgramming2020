@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/bin/Debug/netcoreapp3.1/yellow_brick_red_sea.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/bin/Debug/netcoreapp3.1/yellow_brick_red_sea.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/bin/Debug/netcoreapp3.1/yellow_brick_red_sea.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/bin/Debug/netcoreapp3.1/yellow_brick_red_sea.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/bin/Debug/netcoreapp3.1/yellow_brick_red_sea.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/obj/Debug/netcoreapp3.1/yellow_brick_red_sea.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/obj/Debug/netcoreapp3.1/yellow_brick_red_sea.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/obj/Debug/netcoreapp3.1/yellow_brick_red_sea.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/obj/Debug/netcoreapp3.1/yellow_brick_red_sea.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/yellow_brick_red_sea/obj/Debug/netcoreapp3.1/yellow_brick_red_sea.pdb

@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/bin/Debug/netcoreapp3.1/one-to-ten.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/bin/Debug/netcoreapp3.1/one-to-ten.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/bin/Debug/netcoreapp3.1/one-to-ten.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/bin/Debug/netcoreapp3.1/one-to-ten.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/bin/Debug/netcoreapp3.1/one-to-ten.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/obj/Debug/netcoreapp3.1/one-to-ten.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/obj/Debug/netcoreapp3.1/one-to-ten.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/obj/Debug/netcoreapp3.1/one-to-ten.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/obj/Debug/netcoreapp3.1/one-to-ten.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/week03/RepetitionTasks/one-to-ten/obj/Debug/netcoreapp3.1/one-to-ten.pdb
