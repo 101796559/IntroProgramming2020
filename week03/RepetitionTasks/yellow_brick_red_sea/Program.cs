@@ -14,8 +14,10 @@ namespace yellow_brick_red_sea
                 System.Console.WriteLine("What happens when you throw a yellow brick into the red sea?");
                 System.Console.Write("It....");
                 userAnswer = Convert.ToString(Console.ReadLine());
-                System.Console.WriteLine("Wrong answer!");
-                guesses += 1;
+                if (userAnswer != correctAnswer) {
+                    System.Console.WriteLine("Wrong answer!");
+                    guesses += 1;
+                }
             }
 
             if (userAnswer == correctAnswer) {
