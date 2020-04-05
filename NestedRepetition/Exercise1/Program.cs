@@ -13,8 +13,8 @@ namespace NestedRepetition
             int repeats = 10; 
             int defaultRepeats = repeats;
             int attempts = 0;
-            bool valid = false;
-            while (attempts < 3 && !valid) {
+            int maxAttempts = 3;
+            while (attempts < maxAttempts) {
                 System.Console.Write($"Enter number of times to repeat (default {defaultRepeats}): ");
                 string response = Console.ReadLine();
                 if (response != "") {
@@ -23,11 +23,11 @@ namespace NestedRepetition
                         attempts += 1;
                     }
                     else {
-                        valid = true;
+                        attempts = 10;
                     }
                 }
                 else {
-                    valid = true;
+                    attempts = 10;
                 }
             }
 
@@ -37,7 +37,7 @@ namespace NestedRepetition
                 counter += 1;
             }
 
-            if (attempts > 2) {
+            if (attempts > maxAttempts - 1) {
                 System.Console.WriteLine("Too many attempts.");
             }
             else {
