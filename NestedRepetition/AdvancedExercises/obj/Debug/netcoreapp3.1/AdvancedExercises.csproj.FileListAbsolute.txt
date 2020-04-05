@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/bin/Debug/netcoreapp3.1/AdvancedExercises.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/bin/Debug/netcoreapp3.1/AdvancedExercises.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/bin/Debug/netcoreapp3.1/AdvancedExercises.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/bin/Debug/netcoreapp3.1/AdvancedExercises.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/bin/Debug/netcoreapp3.1/AdvancedExercises.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/obj/Debug/netcoreapp3.1/AdvancedExercises.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/obj/Debug/netcoreapp3.1/AdvancedExercises.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/obj/Debug/netcoreapp3.1/AdvancedExercises.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/obj/Debug/netcoreapp3.1/AdvancedExercises.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/AdvancedExercises/obj/Debug/netcoreapp3.1/AdvancedExercises.pdb
