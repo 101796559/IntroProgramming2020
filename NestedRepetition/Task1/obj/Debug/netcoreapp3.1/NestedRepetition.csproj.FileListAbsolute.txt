@@ -8,3 +8,13 @@
 /Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/obj/Debug/netcoreapp3.1/NestedRepetition.AssemblyInfo.cs
 /Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/obj/Debug/netcoreapp3.1/NestedRepetition.dll
 /Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/obj/Debug/netcoreapp3.1/NestedRepetition.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/bin/Debug/netcoreapp3.1/NestedRepetition.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/bin/Debug/netcoreapp3.1/NestedRepetition.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/bin/Debug/netcoreapp3.1/NestedRepetition.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/bin/Debug/netcoreapp3.1/NestedRepetition.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/bin/Debug/netcoreapp3.1/NestedRepetition.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/Debug/netcoreapp3.1/NestedRepetition.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/Debug/netcoreapp3.1/NestedRepetition.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/Debug/netcoreapp3.1/NestedRepetition.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/Debug/netcoreapp3.1/NestedRepetition.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/Debug/netcoreapp3.1/NestedRepetition.pdb

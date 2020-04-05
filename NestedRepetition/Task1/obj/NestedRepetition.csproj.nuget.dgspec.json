@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/NestedRepetition.csproj": {}
+    "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/NestedRepetition.csproj": {}
   },
   "projects": {
-    "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/NestedRepetition.csproj": {
+    "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/NestedRepetition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/NestedRepetition.csproj",
+        "projectUniqueName": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/NestedRepetition.csproj",
         "projectName": "NestedRepetition",
-        "projectPath": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/NestedRepetition.csproj",
+        "projectPath": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/NestedRepetition.csproj",
         "packagesPath": "/Users/williamweir/.nuget/packages/",
-        "outputPath": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/obj/",
+        "outputPath": "/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/Task1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/williamweir/.nuget/NuGet/NuGet.Config"
