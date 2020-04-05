@@ -6,7 +6,7 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            // Task 2
+            // Task 3 and 4
             int counter = 0;
             int lines = 10;
             int defaultLines = lines;
@@ -30,7 +30,7 @@ namespace Exercise2
 
             counter = 0;
             while (counter < lines) {
-                int counter2 = counter;
+                int counter2 = lines - counter - 1;
 
                 while (counter2 < lines) {
                     System.Console.Write("x");
