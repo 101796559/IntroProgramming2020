@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/obj/Debug/netcoreapp3.1/E1T2.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/obj/Debug/netcoreapp3.1/E1T2.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/obj/Debug/netcoreapp3.1/E1T2.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/bin/Debug/netcoreapp3.1/E1T2.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/bin/Debug/netcoreapp3.1/E1T2.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/bin/Debug/netcoreapp3.1/E1T2.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/bin/Debug/netcoreapp3.1/E1T2.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/bin/Debug/netcoreapp3.1/E1T2.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/obj/Debug/netcoreapp3.1/E1T2.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/NestedRepetition/E1T2/obj/Debug/netcoreapp3.1/E1T2.pdb
