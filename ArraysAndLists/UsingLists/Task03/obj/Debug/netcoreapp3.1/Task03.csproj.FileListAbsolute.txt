@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/bin/Debug/netcoreapp3.1/Task03.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/bin/Debug/netcoreapp3.1/Task03.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/bin/Debug/netcoreapp3.1/Task03.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/bin/Debug/netcoreapp3.1/Task03.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/bin/Debug/netcoreapp3.1/Task03.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/obj/Debug/netcoreapp3.1/Task03.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/obj/Debug/netcoreapp3.1/Task03.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/obj/Debug/netcoreapp3.1/Task03.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/obj/Debug/netcoreapp3.1/Task03.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/ArraysAndLists/UsingLists/Task03/obj/Debug/netcoreapp3.1/Task03.pdb
