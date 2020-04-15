@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/bin/Debug/netcoreapp3.1/Task11.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/bin/Debug/netcoreapp3.1/Task11.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/bin/Debug/netcoreapp3.1/Task11.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/bin/Debug/netcoreapp3.1/Task11.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/bin/Debug/netcoreapp3.1/Task11.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/obj/Debug/netcoreapp3.1/Task11.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/obj/Debug/netcoreapp3.1/Task11.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/obj/Debug/netcoreapp3.1/Task11.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/obj/Debug/netcoreapp3.1/Task11.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task11/obj/Debug/netcoreapp3.1/Task11.pdb

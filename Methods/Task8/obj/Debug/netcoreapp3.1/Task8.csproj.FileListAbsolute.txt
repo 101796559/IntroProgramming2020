@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/bin/Debug/netcoreapp3.1/Task8.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/bin/Debug/netcoreapp3.1/Task8.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/bin/Debug/netcoreapp3.1/Task8.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/bin/Debug/netcoreapp3.1/Task8.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/obj/Debug/netcoreapp3.1/Task8.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/obj/Debug/netcoreapp3.1/Task8.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/obj/Debug/netcoreapp3.1/Task8.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/Methods/Task8/obj/Debug/netcoreapp3.1/Task8.pdb
