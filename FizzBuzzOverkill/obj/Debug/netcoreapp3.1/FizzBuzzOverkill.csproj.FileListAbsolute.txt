@@ -1,0 +1,10 @@
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/bin/Debug/netcoreapp3.1/FizzBuzzOverkill.deps.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/bin/Debug/netcoreapp3.1/FizzBuzzOverkill.runtimeconfig.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/bin/Debug/netcoreapp3.1/FizzBuzzOverkill.runtimeconfig.dev.json
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/bin/Debug/netcoreapp3.1/FizzBuzzOverkill.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/bin/Debug/netcoreapp3.1/FizzBuzzOverkill.pdb
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/obj/Debug/netcoreapp3.1/FizzBuzzOverkill.csprojAssemblyReference.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/obj/Debug/netcoreapp3.1/FizzBuzzOverkill.AssemblyInfoInputs.cache
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/obj/Debug/netcoreapp3.1/FizzBuzzOverkill.AssemblyInfo.cs
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/obj/Debug/netcoreapp3.1/FizzBuzzOverkill.dll
+/Users/williamweir/Desktop/Swinburne/IntroProgramming_2020/FizzBuzzOverkill/obj/Debug/netcoreapp3.1/FizzBuzzOverkill.pdb
